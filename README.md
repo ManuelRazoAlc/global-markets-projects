@@ -59,4 +59,4 @@ global-markets-projects/
 
 ## Author
 **Manuel Razo Alcántara**  
-Actuarial Science student at UNAM with interests in quantitative finance, fixed income, FX, derivatives, and Global Markets.
+Actuarial Science student at UNAM.
