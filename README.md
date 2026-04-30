@@ -43,20 +43,6 @@ global-markets-projects/
 └── banxico-market-note/
 ```
 
-## Skills Demonstrated
-- Fixed income valuation
-- Duration and convexity analysis
-- FX forward pricing
-- Hedging logic and scenario analysis
-- Monetary policy interpretation
-- Market writing and communication
-- Excel-based financial modelling
-
-## Tools Used
-- Microsoft Excel
-- PDF project summaries
-- GitHub for project organization and documentation
-
 ## Author
 **Manuel Razo Alcántara**  
 Actuarial Science student at UNAM.
